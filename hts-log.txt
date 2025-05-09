@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Apr 2025 16:04:34 at https://meenakshi-realestate.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://meenakshi-realestate.netlify.app/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://meenakshi-realestate.netlify.app/ -O1 "D:\html and css , bootstrap\land" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://meenakshi-realestate.netlify.app/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:04:56	Error: 	"Not Found" (404) at link https://meenakshi-realestate.netlify.app/styles.css (from https://meenakshi-realestate.netlify.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 65 links scanned, 62 files written (4850233 bytes overall) [4283484 bytes received at 138176 bytes/sec], 781867 bytes transferred using HTTP compression in 19 files, ratio 21%, 1.1 requests per connection
+(1 errors, 0 warnings, 0 messages)
